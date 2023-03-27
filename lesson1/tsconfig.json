@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "outDir": "dist", //Output directory,
+        "strictNullChecks": true
+    },
+    "include": [
+        "src"
+    ]
+}
